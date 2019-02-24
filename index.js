@@ -26,10 +26,10 @@ function johnLennonFacts(theFacts) {
   return EmptyArrayforJLF;
 }
 
-function iLoveTheBeatles (num) {
+function iLoveTheBeatles (n) {
   const EmptyArrayforILTB = [ ];
   do{
     EmptyArrayforILTB.push('I love the Beatles!');
-    num++;}
-    while (num<15); //because 7+8 
+    n++;}
+    while (n<15); //because 7+8 
   }
