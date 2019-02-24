@@ -28,7 +28,11 @@ function johnLennonFacts(theFacts) {
 
 function iLoveTheBeatles (num) {
   const EmptyArrayforILTB = [ ];
+  count = 0;
   do{
     EmptyArrayforILTB.push
+    count++;
+    console.log('count is:' + count);
+    while (count < 10);
   }
 }
