@@ -1,4 +1,5 @@
 // add solution here
+// source: https://www.w3schools.com/js/js_loop_while.asp - do + while
 const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
