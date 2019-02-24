@@ -32,7 +32,6 @@ function iLoveTheBeatles (num) {
   do{
     EmptyArrayforILTB.push(`I love the Beatles`);
     count++;
-    console.log('count is:' + count);
+    console.log('count is:' + count);}
     while (count < 10);
-  }
 }
