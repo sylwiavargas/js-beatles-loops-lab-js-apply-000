@@ -23,5 +23,5 @@ function johnLennonFacts(theFacts) {
     i++;
   }
   return EmptyArrayforJLF;
-  
 }
+
