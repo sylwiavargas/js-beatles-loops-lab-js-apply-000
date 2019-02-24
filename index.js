@@ -30,7 +30,7 @@ function iLoveTheBeatles (num) {
   const EmptyArrayforILTB = [ ];
   do{
     EmptyArrayforILTB.push(`I love the Beatles`);
-    num++;
-    
+    num++;}
+    while 
   }
 }
