@@ -26,5 +26,6 @@ function johnLennonFacts(theFacts) {
 }
 
 function iLoveTheBeatles (num) {
+  const EmptyArrayforILTB = [ ];
   
 }
