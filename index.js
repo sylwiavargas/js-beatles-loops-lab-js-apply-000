@@ -30,8 +30,7 @@ function iLoveTheBeatles (num) {
   const EmptyArrayforILTB = [ ];
   count = 7;
   do{
-    EmptyArrayforILTB.push(`I love the Beatles!`);
     count++;
-    console.log('count is:' + count);}
+    console.log(`I love the Beatles!`);}
     while (count < 8);
 }
