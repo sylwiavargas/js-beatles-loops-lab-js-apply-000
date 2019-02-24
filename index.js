@@ -32,4 +32,5 @@ function iLoveTheBeatles (num) {
     EmptyArrayforILTB.push('I love the Beatles!');
     num++;}
     while (num<15); //because 7+8 
+    return EmptyArrayforILTB;
   }
