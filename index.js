@@ -25,3 +25,6 @@ function johnLennonFacts(theFacts) {
   return EmptyArrayforJLF;
 }
 
+function iLoveTheBeatles (num) {
+  
+}
