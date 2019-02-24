@@ -4,11 +4,11 @@ const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo St
 const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 function theBeatlesPlay(musicians,instruments) {
-  const array = [ ];
+  const emptyArray = [ ];
   for (let i=0, l=musicians.length; i < l; i++) {
-  array.push(`${musicians[i]} plays ${instruments[i]}`);
+  emptyArray.push(`${musicians[i]} plays ${instruments[i]}`);
   }
-  return array;
+  return emptyArray;
 }
 
 const theFacts = ["He was the last Beatle to learn to drive",
