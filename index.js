@@ -28,10 +28,10 @@ function johnLennonFacts(theFacts) {
 
 function iLoveTheBeatles (num) {
   const EmptyArrayforILTB = [ ];
-  count = 0;
+  count = 7;
   do{
-    EmptyArrayforILTB.push(`I love the Beatles`);
+    EmptyArrayforILTB.push(`I love the Beatles!`);
     count++;
     console.log('count is:' + count);}
-    while (count < 10);
+    while (count < 8);
 }
