@@ -31,6 +31,6 @@ function iLoveTheBeatles (num) {
   do{
     EmptyArrayforILTB.push(`I love the Beatles`);
     num++;}
-    while 
+    while (num)
   }
 }
