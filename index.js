@@ -34,3 +34,7 @@ function iLoveTheBeatles (num) {
     while (num<15); //because 7+8 
     return EmptyArrayforILTB;
   }
+
+
+// important to revise: when in each function the { is located
+// interpolation of strings
