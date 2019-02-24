@@ -28,9 +28,5 @@ function johnLennonFacts(theFacts) {
 
 function iLoveTheBeatles (num) {
   const EmptyArrayforILTB = [ ];
-  count = 7;
-  do{
-    count++;
-    console.log(`I love the Beatles!`);}
-    while (count < 8);
+  
 }
