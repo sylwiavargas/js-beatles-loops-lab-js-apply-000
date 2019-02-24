@@ -18,7 +18,8 @@ const theFacts = ["He was the last Beatle to learn to drive",
 function johnLennonFacts(theFacts) {
   const EmptyArrayforJLF = [ ];
   let i=0; while(i<theFacts.length) {
-    johnLennonFacts.push(`${theFacts[i]!!!`);
+    johnLennonFacts.push(`${theFacts[i]!!!`)
+    i++
   }
   return EmptyArrayforJLF;
   
